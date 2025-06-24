@@ -1,5 +1,5 @@
 
-# AI Note-Taking App
+# AI Note-Taking App by VIKASH SINHA
 
 ## Introduction
 
